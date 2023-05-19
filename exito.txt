@@ -1,1 +1,6 @@
 terminar esto
+
+alegria
+furia 
+tristeza
+miedo
